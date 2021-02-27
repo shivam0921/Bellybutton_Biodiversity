@@ -4,5 +4,13 @@ The purpose of this project is to build a dashboard using data from a study of d
 
 [Web Page Link](https://shivam0921.github.io/Bellybutton_Biodiversity/)
 
-![Bar Chart](images/Bar Chart.JPG)
-![Bubble Chart](Images/Bubble Chart.JPG)
+![Bar Chart](https://github.com/shivam0921/Bellybutton_Biodiversity/blob/main/images/Bar%20Chart.JPG)
+
+
+
+![Bubble Chart](https://github.com/shivam0921/Bellybutton_Biodiversity/blob/main/images/Bubble%20Chart.JPG)
+
+
+
+
+![Gauge Chart](https://github.com/shivam0921/Bellybutton_Biodiversity/blob/main/images/Gauge.JPG)
