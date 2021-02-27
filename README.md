@@ -3,3 +3,5 @@ The purpose of this project is to build a dashboard using data from a study of d
 
 
 [Web Page Link](https://shivam0921.github.io/Bellybutton_Biodiversity/)
+
+![Bar Chart](images/Bar Chart.JPG)
